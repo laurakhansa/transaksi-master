@@ -21,7 +21,7 @@ Sistem Informasi Transaksi Penjualan Barang dengan Spring Boot 4.0.0. Proyek ini
 ## 📖 Dokumentasi API
 
 Setelah menjalankan aplikasi, Anda dapat mengakses dokumentasi API di:
-- **Swagger UI**: `http://localhost:8085/swagger-ui.html`
+- **Swagger UI**: `http://localhost:8085/swagger-ui/index.html#/`
 - **JSON Docs**: `http://localhost:8085/api-docs`
 
 ### Cara Menggunakan Token di Swagger:
@@ -41,10 +41,6 @@ Setelah menjalankan aplikasi, Anda dapat mengakses dokumentasi API di:
    ```bash
    ./mvnw spring-boot:run
    ```
-
-## 👷 GitHub Actions Status
-
-![Java CI with Maven](https://github.com/USER/transaksi-master/actions/workflows/maven.yml/badge.svg)
 
 ---
 
