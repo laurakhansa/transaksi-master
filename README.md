@@ -48,5 +48,5 @@ Setelah menjalankan aplikasi, Anda dapat mengakses dokumentasi API di:
 
 ---
 
-**Kontributor**: [Nama Anda]
+**Kontributor**: Laura Al Khansa
 **Tugas Besar**: CCIT Faculty - Pengembangan Sistem Penjualan
